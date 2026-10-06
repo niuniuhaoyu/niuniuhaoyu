@@ -15,7 +15,26 @@ difference-in-differences methods and their diagnostics.
 
 ## Projects
 
-- **[sop-pensieve](https://github.com/niuniuhaoyu/sop-pensieve)** — 我的 SOP 知识库
+Open-source tools for empirical analysis. I write them in Stata (ado + Mata),
+verify them against independent implementations, and ship the tests.
+
+- **[contdid](https://github.com/niuniuhaoyu/contdid)** — difference-in-differences
+  with a continuous treatment (Callaway, Goodman-Bacon & Sant'Anna 2024):
+  B-spline dose-response `ATT(d)` and the average causal response `ACRT(d)`,
+  uniform confidence bands, staggered adoption. Cross-validated against the
+  authors' R implementation.
+
+- **[didc](https://github.com/niuniuhaoyu/niuniuhaoyu-didc)** — difference-in-discontinuities
+  (Picchetti, Pinto & Shinoki 2026): local polynomial estimation when a
+  confounding policy is assigned at the same cutoff, with the two validity
+  tests and the partial-identification bounds of the paper. The estimation
+  kernel is checked against an independently coded weighted-least-squares fit.
+
+- **[sop-pensieve](https://github.com/niuniuhaoyu/sop-pensieve)** — a living
+  library of research & tooling **SOPs** ("pensieve"): case replication,
+  DID/empirical-analysis standards, reference verification, pre-submission
+  checklists, and AI-assisted coding verification. Every finished task leaves
+  a reusable procedure behind.
 
 ## Links
 
