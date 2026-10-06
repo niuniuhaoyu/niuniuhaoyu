@@ -15,7 +15,7 @@ difference-in-differences methods and their diagnostics.
 
 ## Projects
 
-*Coming soon — open-source tools for empirical analysis.*
+- **[sop-pensieve](https://github.com/niuniuhaoyu/sop-pensieve)** — 我的 SOP 知识库
 
 ## Links
 
