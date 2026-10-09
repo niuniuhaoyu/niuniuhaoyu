@@ -1,5 +1,7 @@
 # Hi, I'm Haoyu Niu 👋
 
+[English](README.md) | [简体中文](README_zh.md)
+
 Senior undergraduate in **Applied Economics** at the
 [City University of Macau](https://www.cityu.edu.mo/).
 
@@ -63,3 +65,7 @@ Each Stata package ships English and Chinese documentation.
 
 - 🏫 City University of Macau
 - 📫 3522359513@qq.com
+
+---
+
+[English](README.md) | [简体中文](README_zh.md)
